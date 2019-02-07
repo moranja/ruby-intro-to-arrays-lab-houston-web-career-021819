@@ -1,7 +1,7 @@
-def instantiate_new_array()
+def instantiate_new_array
   new_array = []
 end
 
-def array_with_two_elements(one,two)
+def array_with_two_elements
   new_array = [one, two]
 end
